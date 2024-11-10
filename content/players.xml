@@ -1,0 +1,3 @@
+<players root="gfx/characters/costumes/" nameimageroot="gfx/ui/boss/" portraitroot="gfx/ui/boss/" bigportraitroot="gfx/ui/stage/" costumeroot="gfx/characters/costumes/">
+	<player name="LittleSister" skin="costume_littlesister.anm2" armor="2" costume="costume_littlesister_body.anm2" nameimage="PlayerName_devil.png" portrait="PlayerPortrait_devil.png" bigportrait="PlayerPortraitBig_devil.png" skinColor="-1" />	
+</players>
